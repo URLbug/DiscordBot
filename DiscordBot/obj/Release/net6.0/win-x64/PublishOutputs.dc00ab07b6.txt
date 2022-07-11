@@ -1,0 +1,3 @@
+H:\Documents\Rider\DiscordBot\DiscordBot\bin\Release\net6.0\win-x64\publish\appsettings.Development.json
+H:\Documents\Rider\DiscordBot\DiscordBot\bin\Release\net6.0\win-x64\publish\appsettings.json
+H:\Documents\Rider\DiscordBot\DiscordBot\bin\Release\net6.0\win-x64\publish\DiscordBot.exe
